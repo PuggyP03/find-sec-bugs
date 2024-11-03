@@ -10,7 +10,7 @@ Website : http://find-sec-bugs.github.io/
 
  - [Philippe Arteau](https://github.com/h3xstream)
  - [David Formánek](https://github.com/formanek)
- - [Tomáš Polešovský](https://github.com/topolik) from [Liferay](https://github.com/liferay)
+ - [Tomáš Polešovský](https://github.com/topolik)  from [Liferay](https://github.com/liferay)
 
 ## Notable contributions
 
